@@ -6,9 +6,21 @@ let myWatchedSeriesLength = myWatchedSeries.length;
 console.log(myWatchedSeriesLength);
 
 //2-Create a variable named myWatchedSeriesSentence, that is equal to a sentence describing the series you watched
+
+/***************************************************
+Correcteur: Yannick GOUGUIA
+
+Merci de bien relire la question et de bien choisir la methode adequate,
+Vous avez obtenu le bon resultat mais la methode n'est pas bonne
+**************************************************/
 let myWatchedSeriesSentence = myWatchedSeries[0] + ", " + myWatchedSeries[1] + " and " + myWatchedSeries[2];
 
 //3-Console.log a sentence using both of the variables created above
+
+/********************************************************************************************
+Vous avez obtenu le bon resultat mais la methode n'est pas bonne.
+Merci de bien choisir la bonne methode
+*********************************************************************************************/
 console.log("I watched " + myWatchedSeriesLength + " series : " + myWatchedSeriesSentence);
 
 /* PART 2 */
